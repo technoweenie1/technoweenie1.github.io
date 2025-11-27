@@ -12,8 +12,11 @@ var layout_rows = 3;
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
   [
-    "f3de21ff",
-    "mto.js"
+    "#f3de21",
+    "mto.js",
+    "undefined",
+    null,
+    "undefined"
   ],
   [
     "#2196f3",
@@ -145,7 +148,7 @@ var aIMG = [
 // Image rotation intervals in milliseconds per tile - If the line below is commented, tiles will be rotated every 5000 milliseconds (5s)
 var tileDelay = [
   60000,
-  10000,
+  600000,
   10000,
   3600000,
   5000,
