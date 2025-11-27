@@ -81,7 +81,6 @@ var aIMG = [
   ],
   [
     "",
-    "https://cdn.star.nesdis.noaa.gov/GOES19/GLM/SECTOR/cgl/EXTENT3/GOES19-CGL-EXTENT3-600x600.mp4",
     "iframe|https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=8&overlay=wind&product=hrrr&level=surface&lat=42.985&lon=-79.262"
   ],
   [
