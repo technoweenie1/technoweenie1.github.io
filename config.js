@@ -11,7 +11,10 @@ var layout_rows = 3;
 // The values are [color code, menu text, target link, scale factor, side],
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
-  ["f3de21ff", "mto.js"],
+  [
+    "f3de21ff",
+    "mto.js"
+  ],
   [
     "#2196f3",
     "LIGHTNING",
