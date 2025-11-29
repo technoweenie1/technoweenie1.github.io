@@ -84,7 +84,8 @@ var aIMG = [
   ],
   [
     "",
-    "iframe|https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=8&overlay=wind&product=hrrr&level=surface&lat=42.985&lon=-79.262"
+    "iframe|https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=8&overlay=wind&product=hrrr&level=surface&lat=42.985&lon=-79.262",
+    "https://weather.gc.ca/data/satellite/goes_ecan_1070_100.jpg"
   ],
   [
     "",
@@ -148,7 +149,7 @@ var aIMG = [
 // Image rotation intervals in milliseconds per tile - If the line below is commented, tiles will be rotated every 5000 milliseconds (5s)
 var tileDelay = [
   60000,
-  600000,
+  10000,
   10000,
   3600000,
   5000,
