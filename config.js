@@ -12,6 +12,27 @@ var layout_rows = 3;
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
   [
+    "FF0000",
+    "Load Cfg",
+    "",
+    "1",
+    "R"
+  ],
+  [
+    "#ff0000",
+    "Load Cfg",
+    "",
+    1,
+    "R"
+  ],
+  [
+    "#ff0000",
+    "Load Cfg",
+    "",
+    1,
+    "R"
+  ],
+  [
     "#f3de21",
     "mto.js",
     "undefined",
@@ -134,11 +155,11 @@ var aIMG = [
   ],
   [
     "",
-    "iframe|https://www.youtube.com/embed/ivbma_oVG9w?autoplay=1&mute=1"
-    ],
+    "iframe|https://www.youtube.com/embed/yF7XdpkL34w?autoplay=1&mute=1"
+  ],
   [
     "",
-    "iframe|https://www.youtube.com/embed/q0WKQjvHfIM?autoplay=1&mute=1"
+    "iframe|https://www.youtube.com/embed/ivbma_oVG9w?autoplay=1&mute=1"
   ],
   [
     "",
