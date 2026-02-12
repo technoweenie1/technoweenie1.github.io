@@ -26,13 +26,6 @@ var aURL = [
     "R"
   ],
   [
-    "#ff0000",
-    "Load Cfg",
-    "",
-    1,
-    "R"
-  ],
-  [
     "#f3de21",
     "mto.js",
     "undefined",
